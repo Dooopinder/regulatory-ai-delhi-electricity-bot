@@ -1,0 +1,24 @@
+# Data artifacts (do not commit)
+*.pdf
+*.txt
+data/
+DERC_*
+ALL_*
+*_PDFS
+*_TXTS
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+env/
+.conda/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
