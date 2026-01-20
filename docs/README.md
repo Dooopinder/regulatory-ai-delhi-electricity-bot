@@ -152,3 +152,21 @@ It is built for:
 - Legal process modeling
 - Rapid system design (built in 24 hours)
 ---
+
+##Diagrama
+
+DERC Website
+   ↓
+Scraper (PDF)
+   ↓
+Dedupe
+   ↓
+Text conversion
+   ↓
+Chunked corpus
+   ↓
+GPT Knowledge
+   ↓
+Instruction Guardrails
+   ↓
+Citation-first Answers
