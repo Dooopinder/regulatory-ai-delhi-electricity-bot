@@ -8,3 +8,6 @@ Processed regulatory corpora (cleaned TXT files) are not committed.
 
 They are generated from public DERC PDFs using the included pipeline.
 This repository publishes the pipeline, not the artifacts.
+
+See `prompts/system_instructions.md` for the full governance rules
+used to constrain the model (citation, refusal, safety).
