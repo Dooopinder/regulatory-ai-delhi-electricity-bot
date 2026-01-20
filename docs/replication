@@ -1,0 +1,11 @@
+## Reproducing the Knowledge Corpus
+
+To recreate it:
+
+1. Run scraper/derc_scrape_pdfs.py
+2. Run dedupe_pdfs.py
+3. Convert PDFs to text
+4. Split into logical chunks
+5. Upload to GPT Knowledge
+
+link to website-https://www.derc.gov.in/
