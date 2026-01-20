@@ -153,8 +153,9 @@ It is built for:
 - Rapid system design (built in 24 hours)
 ---
 
-##Diagrama
+## Diagram
 
+```text
 DERC Website
    ↓
 Scraper (PDF)
@@ -170,3 +171,4 @@ GPT Knowledge
 Instruction Guardrails
    ↓
 Citation-first Answers
+
