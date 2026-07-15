@@ -1,4 +1,4 @@
-# regulatory-ai-delhi-electricity-bot
+# Regulatory AI Compliance Assistant
 
 Most legal/energy chatbots hallucinate law, mix jurisdictions, or give unsafe advice.
 This project demonstrates how to build a citation-locked, refusal-safe regulatory AI
